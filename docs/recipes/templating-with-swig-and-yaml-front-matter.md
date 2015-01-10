@@ -1,4 +1,4 @@
-# Templating with YAML Front-Matter and Swig
+# Templating with Swig and YAML front-matter
 Templating can be setup using `gulp-swig`, `gulp-data`, and `gulp-front-matter` matter with ease:
 
 ##### `page.html`

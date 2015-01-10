@@ -19,4 +19,4 @@
 * [Using multiple sources in one task](using-multiple-sources-in-one-task.md)
 * [Browserify + Uglify with sourcemaps](browserify-uglify-sourcemap.md)
 * [Output both a minified and non-minified version](minified-and-non-minified.md)
-* [Templating with YAML Front-Matter and Swig](templating-with-yaml-front-matter-and-swig.md)
+* [Templating with Swig and YAML front-matter](templating-with-swig-and-yaml-front-matter.md)
