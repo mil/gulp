@@ -1,5 +1,5 @@
-# Templating with YAML Front Matter and Swig
-Templating, similar to systems found in blogging engines, can be setup using `gulp-swig`, `gulp-data`, and `gulp-front-matter` matter with ease.  Consider the example:
+# Templating with YAML Front-Matter and Swig
+Templating can be setup using `gulp-swig`, `gulp-data`, and `gulp-front-matter` matter with ease:
 
 ##### `page.html`
 
