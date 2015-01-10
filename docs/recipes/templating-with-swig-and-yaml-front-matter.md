@@ -5,19 +5,11 @@ Templating can be setup using `gulp-swig`, `gulp-data`, and `gulp-front-matter`:
 
 ```html
 ---
-<<<<<<< HEAD
 title: Things to do
 todos:
     - First todo
     - Another todo item
     - A third todo item
-=======
-title: My title
-todos:
-    - List item one
-    - Second list item
-    - Thrid list item
->>>>>>> 959984dc1e28fcf04512bd7c7aaf91577dba4100
 ---
 <html>
     <head>
