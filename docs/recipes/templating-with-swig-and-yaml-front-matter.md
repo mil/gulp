@@ -1,5 +1,5 @@
 # Templating with Swig and YAML front-matter
-Templating can be setup using `[gulp-swig](https://github.com/colynb/gulp-swig)` and `[gulp-front-matter](https://github.com/lmtm/gulp-front-matter)`:
+Templating can be setup using `gulp-swig` and `gulp-front-matter`:
 
 ##### `page.html`
 
